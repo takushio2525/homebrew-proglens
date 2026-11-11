@@ -1,7 +1,7 @@
 # progLens のリリースの小道具が書く（手で直さない）
 cask "proglens" do
-  version "0.1.15"
-  sha256 "1770ec8e54cca081c37034965ca622ef6db8fdff7dde13786f9abf8f37f67908"
+  version "0.1.16"
+  sha256 "f159545bb72f5507aa9059c9459b0a7f69d35d8780dc67f82854e1c60dae7e60"
 
   url "https://github.com/takushio2525/proglens-releases/releases/download/v#{version}/progLens-#{version}-macos-arm64.zip"
   name "progLens"
